@@ -1,6 +1,6 @@
 # Hierarchical Language Model
 
-Unofficial PyTorch implementation for paper *From Characters to Words: Hierarchical Pre-trained Language Model for Open-vocabulary Language Understanding*, accepted by *ACL 2023*.
+PyTorch implementation for paper *From Characters to Words: Hierarchical Pre-trained Language Model for Open-vocabulary Language Understanding*, accepted by *ACL 2023*.
 
 ### [[Paper & Supplementary Material](https://aclanthology.org/2023.acl-long.200.pdf)]
 <p align="center">
